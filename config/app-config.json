@@ -1,6 +1,6 @@
 {
   "nomeLoja": "Retrô 128",
-  "versao": "2.0.0",
+  "versao": "2.0.1",
   "ambiente": "producao",
   "moeda": "BRL",
   "catalogoUrl": "data/catalogo.json",
@@ -9,7 +9,7 @@
   "blackFriday": {
     "ativa": true,
     "fim": "2026-11-27T23:59:59-03:00",
-    "intervaloContadorSegundos": 1,
+    "intervaloContadorSegundos": 60,
     "promocoes": {
       "ps2-01": {
         "percentual": 30
